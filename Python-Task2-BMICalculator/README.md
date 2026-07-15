@@ -50,7 +50,7 @@ Python-Task2-BMICalculator/
    ```
 4. Run the app:
    ```
-   python gui.py
+   python main.py
    ```
 5. Enter your name, weight (kg), and height (m), then click **Calculate**.
 6. Click **Save** to store the result, or **View Graph** to see your BMI trend over time.
