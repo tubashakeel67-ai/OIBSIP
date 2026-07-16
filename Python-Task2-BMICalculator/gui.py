@@ -22,7 +22,7 @@ def get_validated_bmi(weight_str, height_str):
 def on_calculate():
     result = get_validated_bmi(weight_entry.get(), height_entry.get())
     if not result[0]:
-        result_label.config(text="Invalid input", fg="black")
+        result_label.config(text="Invalid input", fg="#E74C3C")
         return
     _, weight, height, bmi, category = result
     color_map = {"Underweight": "#2E86AB", "Normal": "#2ECC71",
