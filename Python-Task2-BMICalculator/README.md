@@ -59,4 +59,6 @@ Python-Task2-BMICalculator/
 ![BMI Calculator Screenshot](screenshot.png)
 
 ## Author
-Tuba Shakeel
+**Tuba Shakeel**
+Python Programming Intern — Oasis Infobyte
+[LinkedIn](https://www.linkedin.com/in/tuba-shakeel-459091310) | [GitHub](https://github.com/tubashakeel67-ai)
